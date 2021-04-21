@@ -1,0 +1,262 @@
+[
+   {
+       "price": 70,
+       "ratings": 3,
+       "stock": 20,
+       "numOfReviews": 1,
+       "_id": "607bf6e1b28e8e1d087c77a1",
+       "name": "Black Label",
+       "description": "A rich blend of over 40 whiskies at least 12 years of age, it can be enjoyed on the rocks, neat, or with a dash of water. For occasions big and small alike, Johnnie Walker Black Label has long been the perfect celebration of the next step.",
+       "category": "Liquors",
+       "seller": "Lokanthali Liquors Shop",
+       "images": [
+           {
+               "_id": "607bf6e1b28e8e1d087c77a2",
+               "public_id": "products/v72cclohn4nwqkqi63x4",
+               "url": "https://res.cloudinary.com/dxzmha1nj/image/upload/v1618736861/products/v72cclohn4nwqkqi63x4.png"
+           },
+           {
+               "_id": "607bf6e1b28e8e1d087c77a3",
+               "public_id": "products/tou73zr8p1wtotb5g6d7",
+               "url": "https://res.cloudinary.com/dxzmha1nj/image/upload/v1618736863/products/tou73zr8p1wtotb5g6d7.png"
+           },
+           {
+               "_id": "607bf6e1b28e8e1d087c77a4",
+               "public_id": "products/v34jukwbkk79i9y4pk77",
+               "url": "https://res.cloudinary.com/dxzmha1nj/image/upload/v1618736865/products/v34jukwbkk79i9y4pk77.jpg"
+           }
+       ],
+       "user": "607876eb053a6b27588df987",
+       "reviews": [],
+       "createdAt": "2021-04-18T09:07:45.959Z",
+       "__v": 0
+   },
+   {
+       "price": 69,
+       "ratings": 0,
+       "stock": 15,
+       "numOfReviews": 0,
+       "_id": "607bf7e3b28e8e1d087c77a5",
+       "name": "Chivas Regal 12yrs 1L - 750",
+       "description": "Chivas Regal is a blend of many different malt and grain Scotch whiskies, matured for at least 12 years. From the oldest operating distillery in the Scottish Highlands, Chivas Regal has been famous for its extraordinary selection of malt Whiskies.\n\nMatured for 12 years the result is a rich and generous whisky with honey and hazelnut notes and a long creamy finish. This rich, smooth blend balances style with substance and tradition with a modern twist.",
+       "category": "Liquors",
+       "seller": "Lokanthali Liquors Shop",
+       "images": [
+           {
+               "_id": "607bf7e3b28e8e1d087c77a6",
+               "public_id": "products/yaeonuxpvimwlnopicpn",
+               "url": "https://res.cloudinary.com/dxzmha1nj/image/upload/v1618737119/products/yaeonuxpvimwlnopicpn.jpg"
+           },
+           {
+               "_id": "607bf7e3b28e8e1d087c77a7",
+               "public_id": "products/ehdeygslrllvvh6jd7uz",
+               "url": "https://res.cloudinary.com/dxzmha1nj/image/upload/v1618737120/products/ehdeygslrllvvh6jd7uz.jpg"
+           },
+           {
+               "_id": "607bf7e3b28e8e1d087c77a8",
+               "public_id": "products/gsyaaiflp6re7flbeu3l",
+               "url": "https://res.cloudinary.com/dxzmha1nj/image/upload/v1618737123/products/gsyaaiflp6re7flbeu3l.jpg"
+           }
+       ],
+       "user": "607876eb053a6b27588df987",
+       "reviews": [],
+       "createdAt": "2021-04-18T09:12:03.719Z",
+       "__v": 0
+   },
+   {
+       "price": 13,
+       "ratings": 0,
+       "stock": 19,
+       "numOfReviews": 0,
+       "_id": "607bf929b28e8e1d087c77ad",
+       "name": "8848 Vodka 750ML Volume: 750ML",
+       "description": "Mount Everest, known as Chhomolungma by Sherpas meaning “Mother Goddess of the Earth” is the highest point in the world standing at 8848 meters. This vodka is crafted from imported grain spirits, distilled from Soft French Winter Wheat, and blended in small batches with Pure Spring Water from the Himalayas.\n\nThe remarkable superior taste comes from the time honored tradition of using copper in the distilling process. A large copper pot is filled with the eclectic mix of ingredients and the process of distillation is repeated five time until the desired flavor of 8848 Vodka is achieved.\n\nWith no additives and artificial flavors added, the product is sugar free as well as glycerin free. Devoid of any impurities and distilled five times, 8848 Vodka is in a class of it’s own.",
+       "category": "Liquors",
+       "seller": "Lokanthali Liquors Shop",
+       "images": [
+           {
+               "_id": "607bf929b28e8e1d087c77ae",
+               "public_id": "products/rgdhz4vuisid5ai4rxta",
+               "url": "https://res.cloudinary.com/dxzmha1nj/image/upload/v1618737445/products/rgdhz4vuisid5ai4rxta.jpg"
+           },
+           {
+               "_id": "607bf929b28e8e1d087c77af",
+               "public_id": "products/ertwzq3f2l8qtoyqtah8",
+               "url": "https://res.cloudinary.com/dxzmha1nj/image/upload/v1618737447/products/ertwzq3f2l8qtoyqtah8.jpg"
+           },
+           {
+               "_id": "607bf929b28e8e1d087c77b0",
+               "public_id": "products/lftoqqxgms8m8bzek8sf",
+               "url": "https://res.cloudinary.com/dxzmha1nj/image/upload/v1618737449/products/lftoqqxgms8m8bzek8sf.jpg"
+           }
+       ],
+       "user": "607876eb053a6b27588df987",
+       "reviews": [],
+       "createdAt": "2021-04-18T09:17:29.317Z",
+       "__v": 0
+   },
+   {
+       "price": 5,
+       "ratings": 0,
+       "stock": 50,
+       "numOfReviews": 0,
+       "_id": "607dbfe3f4384b2d34bcd1aa",
+       "name": "Black Forest - Cake",
+       "description": "Product Details:\n\nCake Flavor- Black Forest\nType of Cake - Cream\nWeight- Half Kg\nShape- Round\nServes- 4-6 People\nSize- 6 inches in Diameter\nPlease Note:\n\nThe cake stand, cutlery & accessories used in the image are only for representation purposes. They are not delivered with the cake.\nThis cake is hand delivered in a good quality cardboard box.\nCountry of Origin: Nepal",
+       "category": "Bakerys",
+       "seller": "Alina Bakery",
+       "images": [
+           {
+               "_id": "607dbfe3f4384b2d34bcd1ab",
+               "public_id": "products/xhtp6xhsq5kxck8gpjro",
+               "url": "https://res.cloudinary.com/dxzmha1nj/image/upload/v1618853854/products/xhtp6xhsq5kxck8gpjro.jpg"
+           },
+           {
+               "_id": "607dbfe3f4384b2d34bcd1ac",
+               "public_id": "products/ovloi7reavecroh83drx",
+               "url": "https://res.cloudinary.com/dxzmha1nj/image/upload/v1618853858/products/ovloi7reavecroh83drx.jpg"
+           }
+       ],
+       "user": "607876eb053a6b27588df987",
+       "reviews": [],
+       "createdAt": "2021-04-19T17:37:39.291Z",
+       "__v": 0
+   },
+   {
+       "price": 6,
+       "ratings": 0,
+       "stock": 50,
+       "numOfReviews": 0,
+       "_id": "607dc0fdf4384b2d34bcd1ad",
+       "name": "White Forest -Birthday Cake",
+       "description": "You are on the way to a sweet and wholesome satisfaction with this delight! It is all set to create a sweet explosion inside your mouth - Milky and Velvety Explosion! Made with the perfect blend of white and brown chocolate, and adorned with milk chocolate shavings, the extraordinary taste of this cake is dedicated to all the White Chocolate Lovers.",
+       "category": "Bakerys",
+       "seller": "Alina Bakery",
+       "images": [
+           {
+               "_id": "607dc0fdf4384b2d34bcd1ae",
+               "public_id": "products/gdt4vs5zjezxmifw9dii",
+               "url": "https://res.cloudinary.com/dxzmha1nj/image/upload/v1618854137/products/gdt4vs5zjezxmifw9dii.jpg"
+           },
+           {
+               "_id": "607dc0fdf4384b2d34bcd1af",
+               "public_id": "products/gdbpn2chmvpyf9ossvmw",
+               "url": "https://res.cloudinary.com/dxzmha1nj/image/upload/v1618854139/products/gdbpn2chmvpyf9ossvmw.jpg"
+           }
+       ],
+       "user": "607876eb053a6b27588df987",
+       "reviews": [],
+       "createdAt": "2021-04-19T17:42:21.366Z",
+       "__v": 0
+   },
+   {
+       "price": 100,
+       "ratings": 0,
+       "stock": 1,
+       "numOfReviews": 0,
+       "_id": "607ffde8c442ec35a0e9c053",
+       "name": "Amrapali Party Palace",
+       "description": "Amrapali is one of the best party palace in the town with huge area and good parking space as well.\n",
+       "category": "Venues",
+       "seller": "Party-Palace association Nepal",
+       "images": [
+           {
+               "_id": "607ffde8c442ec35a0e9c054",
+               "public_id": "products/amektit1das60qmobrv6",
+               "url": "https://res.cloudinary.com/dxzmha1nj/image/upload/v1619000807/products/amektit1das60qmobrv6.jpg"
+           }
+       ],
+       "user": "607876eb053a6b27588df987",
+       "reviews": [],
+       "createdAt": "2021-04-21T10:26:48.460Z",
+       "__v": 0
+   },
+   {
+       "price": 100,
+       "ratings": 0,
+       "stock": 1,
+       "numOfReviews": 0,
+       "_id": "607ffe93c442ec35a0e9c055",
+       "name": "Anmol Banquet (Sankhamul)",
+       "description": "Anmoal Catering Service Pvt. Ltd. is a well established wedding venue situated in New Baneshwor, with a clear aim to provide consistent quality facilities. Along with caring well trained management and staff in creative, friendly surroundings. As well as it has clean kitchen flooring with marbles and tails, each cooking materials and place for Veg. and Non-Veg. items, DJ and Seminar halls, High quality RestRoom and Parking lot with having capacity around  25 Cars and 75 Bikes.",
+       "category": "Venues",
+       "seller": "Party-Palace association Nepal",
+       "images": [
+           {
+               "_id": "607ffe93c442ec35a0e9c056",
+               "public_id": "products/lrrppjtqv3svz9tazbj7",
+               "url": "https://res.cloudinary.com/dxzmha1nj/image/upload/v1619000979/products/lrrppjtqv3svz9tazbj7.jpg"
+           }
+       ],
+       "user": "607876eb053a6b27588df987",
+       "reviews": [],
+       "createdAt": "2021-04-21T10:29:39.563Z",
+       "__v": 0
+   },
+   {
+       "price": 100,
+       "ratings": 0,
+       "stock": 1,
+       "numOfReviews": 0,
+       "_id": "607fff72c442ec35a0e9c059",
+       "name": "Jambudeep Banquet",
+       "description": "Jambudeep Banquet Pvt. Ltd. is a well established wedding venue situated in Battisputali,Kathmandu, with a clear aim to provide consistent quality facilities. Along with caring well trained management and staff in creative, friendly surroundings. As well as it has clean kitchen flooring with marbles and tails, each cooking materials and place for Veg. andNon-Veg. items, DJ and Seminar halls, High quality RestRoom and Parking lot with having capacity around  25 Cars and 75 Bikes.\n",
+       "category": "Venues",
+       "seller": "Party-Palace association Nepal",
+       "images": [
+           {
+               "_id": "607fff72c442ec35a0e9c05a",
+               "public_id": "products/klow0hxlfyn0tqamcqsu",
+               "url": "https://res.cloudinary.com/dxzmha1nj/image/upload/v1619001201/products/klow0hxlfyn0tqamcqsu.jpg"
+           }
+       ],
+       "user": "607876eb053a6b27588df987",
+       "reviews": [],
+       "createdAt": "2021-04-21T10:33:22.186Z",
+       "__v": 0
+   },
+   {
+      "price": 10,
+      "ratings": 0,
+      "stock": 1,
+      "numOfReviews": 0,
+      "_id": "608006ed2019c637c89cf31a",
+      "name": "Puspa Kamal Dahal",
+      "description": "Gotra: Agasti",
+      "category": "Bramins",
+      "seller": "Bhuns Association of nepal",
+      "images": [
+          {
+              "_id": "608006ed2019c637c89cf31b",
+              "public_id": "products/wuuwpg1gyv8aiinqnzgo",
+              "url": "https://res.cloudinary.com/dxzmha1nj/image/upload/v1619003116/products/wuuwpg1gyv8aiinqnzgo.jpg"
+          }
+      ],
+      "user": "607876eb053a6b27588df987",
+      "reviews": [],
+      "createdAt": "2021-04-21T11:05:17.614Z",
+      "__v": 0
+  },
+  {
+   "price": 11,
+   "ratings": 0,
+   "stock": 1,
+   "numOfReviews": 0,
+   "_id": "6080078d0d3dbd22003f7ba7",
+   "name": "Ram Chandra poudel",
+   "description": "Gotra: Goutam",
+   "category": "Bramins",
+   "seller": "Bhuns Association of nepal",
+   "images": [
+       {
+           "_id": "6080078d0d3dbd22003f7ba8",
+           "public_id": "products/dfq3hpjnbjqplszikpyx",
+           "url": "https://res.cloudinary.com/dxzmha1nj/image/upload/v1619003276/products/dfq3hpjnbjqplszikpyx.jpg"
+       }
+   ],
+   "user": "607876eb053a6b27588df987",
+   "reviews": [],
+   "createdAt": "2021-04-21T11:07:57.225Z",
+   "__v": 0
+}
+]
