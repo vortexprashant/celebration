@@ -24,8 +24,8 @@ const Home = ({ match }) => {
     const categories = [
         'Party Palace',
         'Photographers',
-        'Bahuns',
-        'Boutiques'
+        'Boutiques',
+        'Bahuns'
     ]
 
     const alert = useAlert();
