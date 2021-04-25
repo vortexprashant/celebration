@@ -20,16 +20,10 @@ const NewProduct = ({ history }) => {
     const [imagesPreview, setImagesPreview] = useState([])
 
     const categories = [
-        'Venues',
-        'Bakerys',
-        'Liquors',
-        'Restaurants',
-        'Arts',
-        'Vechicles',
-        'Bramins',
-        'Catreen',
-        'Travels and Tours',
-        'JEWELLERS'
+        'Party Palace',
+        'Photographers',
+        'Bahuns',
+        'Boutiques'
     ]
 
     const alert = useAlert();
