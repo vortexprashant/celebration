@@ -55,7 +55,7 @@ const Home = ({ match }) => {
     }
 
     return (
-        <Fragment>
+        <Fragment data-testid="Home">
             {loading ? <Loader /> : (
                 <Fragment>
                     <MetaData title={'Buy Best Products Online'} />
